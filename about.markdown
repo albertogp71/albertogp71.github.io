@@ -4,10 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I am a research engineer with 13 years experience [2012-2025] in wireless communications targeting 4/5/6G wireless networks
-and terrestrial/satellite digital video broadcasting systems.
+I'm a research engineer with 13+ years experience in wireless communications, where I worked on 4G, 
+5G and 6G radio access networks as well as satellite transmission systems.
 
-Previously, I have been a researcher in Academia for 9 years [2003-2011], focusing on broadband wireless terrestrial and satellite communications.
+Before that, I spent nearly a decade in academia diving deep into wireless and satellite
+communications.
 
-I hold a Ph.D. degree in Electronics and Communications [2003] ad a *Laurea* degree in
-Telecommunications Engineering [1999] from [Politecnico di Torino](https://www.polito.it), Italy.
+I earned my Ph.D. in Electronics and Communications ad a Laurea degree in Telecommunications
+Engineering from [Politecnico di Torino](https://www.polito.it), Italy.
+
+My main research passion is **error correction codes** in all their flavors — from coding for broadband transmissions to ultra-reliable communications, short block length codes, nonlinear and nonbinary codes, and even quantum error correction codes!
+
+Lately, I’ve been experimenting with deep learning for designing new types of error correction codes for channels with feedback.
