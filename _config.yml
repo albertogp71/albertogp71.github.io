@@ -21,7 +21,7 @@
 title: Alberto's web pages
 email: alberto [.dot.] g [.dot.] perotti [@at@] gmail [.dot.] com
 description: >- # this means to ignore newlines until "baseurl:"
-  Error Correction.
+  Error Protection.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

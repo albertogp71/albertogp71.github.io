@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Publications
+title: /Publications/
 permalink: /publications/
 ---
-
+___
+___
 [[Journal]](#journal-papers)  [[Conference]](#conference-papers) [[Book chapters]](#book-chapters) [[Non peer-reviewed]](#non-peer-reviewed-items)
 
-Check out my [Google Scholar profile](https://scholar.google.com/citations?user=vnZlg40AAAAJ&hl=en) and my [publications list on DBLP](https://dblp.org/pid/76/412.html).
+Check out my [Google Scholar profile](https://scholar.google.com/citations?user=vnZlg40AAAAJ&hl=en) and an (almost complete) [publications list on DBLP](https://dblp.org/pid/76/412.html).
 
-
-
+___
 # Journal Papers
 
 1. Y. Shao, E. Ozfatura, A. G. Perotti, B. M. Popović and D. Gündüz, 
@@ -100,7 +100,7 @@ doi: [10.1109/TIT.2004.838358](https://doi.org/10.1109/TIT.2004.838358).
 
 
 
-
+___
 # Conference Papers
 
 1. F. Berggren, A. G. Perotti and B. M. Popović,
@@ -253,7 +253,7 @@ doi: [10.1109/ICC.2004.1312505](https://doi.org/10.1109/ICC.2004.1312505).
 
 
 
-
+___
 # Book Chapters
 
 1.  D. Riviello, S. Benco, F. L. Crespi, A. Ghittino, R. Garello, A. Perotti.
@@ -276,8 +276,8 @@ doi: [10.1007/978-3-319-01718-1](https://doi.org/10.1007/978-3-319-01718-1)
 
 
 
-
-# Non Peer-Reviewed Items
+___
+# Non Peer-Reviewed Publications
 
 1. W. Chen, I. Demirkol, M. Mostafa and A. Perotti,
 "Series Editorial: Mobile Communications and Networks,"
@@ -350,4 +350,4 @@ in *IEEE Communications Magazine*, vol. 57, no. 1, pp. 42-42, January 2019,
 doi: [10.1109/MCOM.2019.8613272](https://doi.org/10.1109/MCOM.2019.8613272).
 
 
-# Footnotes
+### **Footnotes**
