@@ -24,7 +24,6 @@ Check out my [publications](/publications) and [patents](/patents).
 
 Thanks for stopping by!
 
+[^1]: In the Italian academic system before the 1999 reform, the *laurea* degree was the highest academic degree obtainable before Ph.D. It is considered equivalent to a masters' degree. 
 
 ### **Footnotes**
-[^1]: In the Italian academic system before the 1999 reform, the *laurea* degree was the highest
-academic degree obtainable before Ph.D. It is considered equivalent to a masters' degree. 
