@@ -14,42 +14,43 @@ ___
 
 1. Y. Shao, E. Ozfatura, A. G. Perotti, B. M. Popović and D. Gündüz, 
 "AttentionCode: Ultra-Reliable Feedback Codes for Short-Packet Communications,"
-in *IEEE Transactions on Communications*, vol. 71, no. 8, pp. 4437-4452, Aug. 2023, 
+in *IEEE Transactions on Communications*, vol. 71, no. 8, pp. 4437-4452, May 2023, 
 doi: [10.1109/TCOMM.2023.3280563](https://doi.org/10.1109/TCOMM.2023.3280563).
+
+1. M. Boloursaz Mashhadi, D. Gunduz, A. G. Perotti, B. M. Popovic,
+"DRF Codes: Deep SNR-Robust Feedback Codes,"
+in *ITU Journal on Future and Evolving Technologies*, vol. 4, no. 3, pp. 447-460, Sept. 2023,
+doi: [10.52953/DAPE6014](https://doi.org/10.52953/DAPE6014)
 
 1. E. Ozfatura, Y. Shao, A. G. Perotti, B. M. Popović and D. Gündüz, 
 "All You Need Is Feedback: Communication With Block Attention Feedback Codes,"
-in *IEEE Journal on Selected Areas in Information Theory*, vol. 3, no. 3, pp. 587-602, Sept. 2022, 
+in *IEEE Journal on Selected Areas in Information Theory*, vol. 3, no. 3, pp. 587-602, Nov. 2022, 
 doi: [10.1109/JSAIT.2022.3223901](https://doi.org/10.1109/JSAIT.2022.3223901).
 
 1. G. Ciaramitaro, M. Brambilla, D. Tagliaferri, E. Bozzi, M. Nicoli, A. Perotti, U. Spagnolini, 
 "On the Impact of Road Roughness and Antenna Position on Vehicular Communications," 
-in *IEEE Wireless Communications Letters*, vol. 11, no. 9, pp. 1875-1879, Sept. 2022, 
+in *IEEE Wireless Communications Letters*, vol. 11, no. 9, pp. 1875-1879, June 2022, 
 doi: [10.1109/LWC.2022.3185054](https://doi.org/10.1109/LWC.2022.3185054).
 
 1. F. Linsalata, S. Mura, M. Mizmizi, M. Magarini, P. Wang, M N. Khormuji, A. Perotti, U. Spagnolini, 
 "LoS-Map Construction for Proactive Relay of Opportunity Selection in 6G V2X Systems," 
-in *IEEE Transactions on Vehicular Technology*, vol. 72, no. 3, pp. 3864-3878, March 2023, 
+in *IEEE Transactions on Vehicular Technology*, vol. 72, no. 3, pp. 3864-3878, Oct. 2022, 
 doi: [10.1109/TVT.2022.3217966](https://doi.org/10.1109/TVT.2022.3217966).
-
-1. M. Boloursaz Mashhadi, D. Gunduz, A. G. Perotti, B. M. Popovic,
-"DRF Codes: Deep SNR-Robust Feedback Codes,"
-in *ITU Journal on Future and Evolving Technologies*, vol. 4 (2023), no. 3, pp. 447-460,
-doi: [10.52953/DAPE6014](https://doi.org/10.52953/DAPE6014)
 
 1. A. R. Safavi, A. G. Perotti, B. M.Popovic, M. Boloursaz-Mashhadi, D. Gündüz,
 "Deep Extended Feedback Codes," 
-in *ITU Journal on Future and Evolving Technologies*, vol. 2 (2021), no. 6 - Wireless communication systems in beyond 5G era, pp. 33-41,
+in *ITU Journal on Future and Evolving Technologies*, vol. 2, no. 6 - Wireless communication systems in beyond 5G era,
+Sept. 2021, pp. 33-41,
 doi: [10.52953/SNLM1743](https://doi.org/10.52953/SNLM1743).
 
 1. A. G. Perotti, M. N. Khormuji and B. M. Popović,
 "Simultaneous Wireless Information and Power Transfer by Continuous-Phase Modulation," 
-in *IEEE Communications Letters*, vol. 24, no. 6, pp. 1294-1298, June 2020, 
+in *IEEE Communications Letters*, vol. 24, no. 6, pp. 1294-1298, March 2020, 
 doi: [10.1109/LCOMM.2020.2981316](https://doi.org/10.1109/LCOMM.2020.2981316).
 
 1. A. R. Safavi, A. G. Perotti and B. M. Popović,
 "Ultra Low Density Spread Transmission,"
-in *IEEE Communications Letters*, vol. 20, no. 7, pp. 1373-1376, July 2016,
+in *IEEE Communications Letters*, vol. 20, no. 7, pp. 1373-1376, May 2016,
 doi: [10.1109/LCOMM.2016.2564379](https://doi.org/10.1109/LCOMM.2016.2564379).
 
 1. D. Riviello, R. Garello, S. Benco, F. Crespi, A. Perotti,
@@ -69,7 +70,7 @@ pp. 631--633, doi: [10.1049/el.2011.3769](https://doi.org/10.1049/el.2011.3769).
 
 1. A. Perotti, A. Tarable, S. Benedetto and G. Montorsi,
 "Capacity-Achieving CPM Schemes,"
-in *IEEE Transactions on Information Theory*, vol. 56, no. 4, pp. 1521-1541, April 2010, 
+in *IEEE Transactions on Information Theory*, vol. 56, no. 4, pp. 1521-1541, March 2010, 
 doi: [10.1109/TIT.2010.2040861](https://doi.org/10.1109/TIT.2010.2040861).
 
 1. A. Perotti, S. Benedetto and P. Remlein,
