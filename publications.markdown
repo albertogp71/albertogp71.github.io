@@ -17,7 +17,7 @@ ___
 in *IEEE Transactions on Communications*, vol. 71, no. 8, pp. 4437-4452, May 2023, 
 doi: [10.1109/TCOMM.2023.3280563](https://doi.org/10.1109/TCOMM.2023.3280563).
 
-1. M. Boloursaz Mashhadi, D. Gunduz, A. G. Perotti, B. M. Popovic,
+1. M. Boloursaz Mashhadi, D. Gündüz, A. G. Perotti, B. M. Popović,
 "DRF Codes: Deep SNR-Robust Feedback Codes,"
 in *ITU Journal on Future and Evolving Technologies*, vol. 4, no. 3, pp. 447-460, Sept. 2023,
 doi: [10.52953/DAPE6014](https://doi.org/10.52953/DAPE6014)
