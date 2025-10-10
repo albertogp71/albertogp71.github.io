@@ -157,7 +157,7 @@ doi: [10.1109/GLOCOMW.2014.7063544](https://doi.org/10.1109/GLOCOMW.2014.7063544
 1. A. G. Perotti, J. van de Beek and B. M. Popović,
 "Downlink overloaded multiple access based on constellation expansion,"
 *2014 IEEE Globecom Workshops (GC Wkshps)*, Austin, TX, USA, 2014, pp. 977-982,
-doi: [10.1109/GLOCOMW.2014.7063560](https://doi.org/10.1109/GLOCOMW.2014.7063544).
+doi: [10.1109/GLOCOMW.2014.7063560](https://doi.org/10.1109/GLOCOMW.2014.7063560).
 
 1. A. G. Perotti and B. M. Popović,
 "Enhanced trellis coded multiple access (ETCMA),"
