@@ -79,7 +79,7 @@ in *Advances in Electronics and Telecommunications*[^1], vol. 1, no. 1, April 20
 
 1. H. Wu, L. Ping, and A. Perotti,
 "User-specific chip-level interleaver design for IDMA systems,"
-*IEE Electronics Letters*, vol. 42, no. 4, Feb. 2006, pp. 233--234, 
+*IET Electronics Letters*, vol. 42, no. 4, Feb. 2006, pp. 233--234, 
 doi: [10.1049/el:20063770](https://doi.org/10.1049/el:20063770).
 
 1. A. Perotti and S. Benedetto,
@@ -297,7 +297,7 @@ doi: [10.1109/MCOM.2021.9502655](https://doi.org/10.1109/MCOM.2021.9502655).
 
 1. A. G. Perotti, B. M Popović, A. R. Safavi,
 "Accumulative Iterative Codes Based on Feedback."
-Online: [arXiv:2106.07415](\href{https://arxiv.org/abs/2106.07415) [cs.IT],
+Online: [arXiv:2106.07415](https://arxiv.org/abs/2106.07415) [cs.IT],
 doi: [10.48550/arXiv.2106.07415](https://doi.org/10.48550/arXiv.2106.07415).
 
 1. W. Chen, I. Demirkol, M. Mostafa and A. Perotti,
