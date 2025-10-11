@@ -249,10 +249,28 @@ doi: [10.1109/ISIT.2004.1365350](https://doi.org/10.1109/ISIT.2004.1365350).
  
 1. A. Perotti, G. Montorsi and S. Benedetto,
 "Performance analysis and optimization of concatenated block-turbo coding schemes,"
-*2004 IEEE International Conference on Communications (IEEE Cat. No.04CH37577)*, Paris, France, 2004, pp. 332-336,
+*2004 IEEE International Conference on Communications*, Paris, France, 2004, pp. 332-336,
 doi: [10.1109/ICC.2004.1312505](https://doi.org/10.1109/ICC.2004.1312505).
 
-
+1. A. Perotti, G. Montorsi, and S. Benedetto,
+"Error Statistics of Turbo Decoder and Performace Improvement due to Outer Algebraic Block Codes,"
+*ESA Workshop on Tracking, Telemetry and Channel Coding*, Noordwjik (NL), Oct. 29-31, 2001.
+ 
+1. A. Perotti, G. Montorsi, and S. Benedetto,
+"Multiprocessor Implementation of an Iterative Turbo Decoder and Concatenation with an Outer Block Code,"
+*International Conference on Software, Telecommunications and Computer Networks*, Ancona (IT), Oct. 9-12, 2001.
+ 
+1. B. Scanavino, A. Perotti, G. Montorsi, and S. Benedetto,
+"Easy Stopping Rules for the Bit Error Rate Minimization in the Iterative Decoding,"
+*Canadian Workshop on Information Theory*, Vancouver (CA), pp.9--10, June 03-06, 2001.
+ 
+1. A. Perotti, G. Montorsi, S. Benedetto, G. Calzolari, E. Vassallo,
+"Implementation of Turbo Codes for Space Communications using a Multiprocessor DSP Board,"
+*AIAA International Communications Satellite Systems Conference*, Toulouse (FR), 17--20 Apr. 2001.
+ 
+1. G. Montorsi, P. Coccia, A. Perotti, R. Garello, R. Maggiora, S. Benedetto, A. Serra, E. Vassallo and G. P. Calzolari,
+"DSP Implementation of the Newly Proposed CCSDS Telemetry Channel Coding Standard,"
+*Proc. International Symposium on Turbo Codes*, Brest (FR), Sep. 04-07, 2000.
 
 ___
 # Book Chapters
