@@ -8,7 +8,10 @@ layout: home
 
 Hi and welcome to my home page!
 
-I'm a research engineer with 13+ years experience in wireless communications, where I worked on 4G
+I am a researcher in satellite communications with the ASTRACOM
+Research Group at Politecnico di Torino.
+
+Until 2025, I have been a research engineer in wireless communications, where I worked on 4G
 and 5G radio access networks as well as terrestrial and satellite digital video broadcasting.
 
 Before that, I spent nearly a decade in academia diving deep into wireless and satellite communications.
